@@ -1,0 +1,20 @@
+{
+  "name": "Muhammad Diponegoro, S.Kom.,M.Cs",
+  "gender": "Perempuan",
+  "university": "Politeknik Negeri Pontianak",
+  "studyProgram": "Teknik Informatika",
+  "position": "-",
+  "education": "S1",
+  "employmentStatus": "Dosen Tidak Tetap",
+  "activistyStatus": "Aktif",
+  "universityHistory": ["Tidak Ditemukan"],
+  "academicDegree": ["Tidak Ditemukan"],
+  "research": [
+    "Desain dan Implementasi Smart Laboratory Berbasis IoT Menggunakan ESP32 dan Thingsboard untuk Meningkatkan Keamanan dan Keselamatan di Laboratorium Teknik Informatika POLNEP."
+  ],
+  "publications": [
+    "Rancang Bangun Sistem Monitoring dan Kontrol Energi Listrik pada Beban 3 Fasa Menggunakan ESP32 Berbasis Internet of Things (IoT)"
+  ],
+  "contact": ["diponegoro@gmail.com"],
+  "photo": "diponegoro.png"
+}

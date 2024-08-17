@@ -1,0 +1,30 @@
+{
+    "name": "Novi Aryanti Fitri, S.ST., M.Tr.Kom.",
+    "gender": "Perempuan",
+    "university": "Politeknik Negeri Pontianak",
+    "studyProgram": "Teknik Informatika",
+    "position": "Asisten Ahli",
+    "education": "S2 Teknik Informatika",
+    "employmentStatus": "Dosen Tetap",
+    "activityStatus": "Aktif",
+    "universityHistory": [
+        "Politeknik Elektronika Negeri Surabaya",
+        "Universitas Tanjungpura"
+    ],
+    "academicDegree": [
+        "Magister Terapan",
+        "Sarjana Teknik"
+    ],
+    "research": [
+        "Penelitian 1: Sistem Pengambilan Keputusan Topik Tugas Akhir Mahasiswa Menggunakan Metode Neural Network.",
+        "Penelitian 2: KLASIFIKASI BUAH LANGSAT BERDASARKAN KUALITAS MENGGUNAKAN CONVOLUTIONAL NEURAL NETWORK BERBASIS CITRA DIGITAL DI KALIMANTAN BARAT.",
+        "Penelitian 3: Aplikasi Klasifikasi Tingkat Tuberculosis menggunakan Convolutional Neural Network berdasarkan Bakteri Tahan Asam Berbasis Citra Digital."
+    ],
+    "publications": [
+         "Publikasi 1: Kediri City Tourism Object Application Using Firebase Realtime Database Technology.",
+        "Publikasi 12: A Neural Network Recommendation Model for Final Project Topic Selection.",
+        "Publikasi 3: Analisis Kualitas Jaringan Useetv Cable Menggunakan Kabel Tembaga Pada Pt Telkom Pontianak."
+    ],
+    "contact": ["novi@gmail.com"],
+    "photo": "novi.png"
+}

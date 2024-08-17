@@ -1,0 +1,26 @@
+{
+  "name": "Budianingsih",
+  "gender": "Perempuan",
+  "university": "Politeknik Negeri Pontianak",
+  "studyProgram": "Teknik Informatika",
+  "position": "Lektor",
+  "education": "S2",
+  "employmentStatus": "Dosen Tetap",
+  "activityStatus": "Aktif",
+  "universityHistory": [
+    "Institut Teknologi Bandung",
+    "Universitas Al-Azhar Indonesia"
+  ],
+  "academicDegree": ["Magister Teknik", "Sarjana Teknik"],
+  "research": [
+    "Digitalisasi Arsip SK Pada Jurusan Teknik Elektro Politeknik Negeri Pontianak Berbasis Web.",
+    "Prototype System Keamanan Cerdas Pada Komplek Perumahan.",
+    "Permodelan Monitoring Perangkat berbasis Sistem Informasi Geografis (GIS) dan Global Positioning System (GPS)."
+  ],
+  "publications": [
+    "Rancang Bangun Aplikasi Peminjaman Perangkat Berbasis Web Pada Balai Monitor Spektrum Frekuensi Radio Kelas II Pontianak.",
+    "Rancang Bangun Sistem Pengolahan Nilai Mata Kuliah Pada Prodi Teknik Informatika Jurusan Teknik Elektro Politeknik Negeri Pontianak."
+  ],
+  "contact": ["budianingsih@gmail.com"],
+  "photo": "budianingsih.png"
+}

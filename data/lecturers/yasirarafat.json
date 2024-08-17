@@ -1,0 +1,30 @@
+{
+  "name": "Yasir Arafat, S.ST., M.T.",
+  "gender": "Laki-laki",
+  "university": "Politeknik Negeri Pontianak",
+  "studyProgram": "Teknik Informatika",
+  "position": "Lektor",
+  "education": "S2 Teknik Informatika",
+  "employmentStatus": "Dosen Tetap",
+  "activityStatus": "Aktif",
+  "universityHistory": [
+    "Universitas Tanjungpura (2016).",
+    "Institut Teknologi Bandung (2001)."
+  ],
+  "academicDegree": [
+    "Magister Teknik (2016).",
+    "Sarjana Sains Terapan (2001)."
+  ],
+  "research": [
+    "Optimalisasi Infrastruktur LAN pada jurusan teknik elektro POLNEP.",
+    "Integrasi otentikasi Web menggunakan Lightweight Directory Access Protokol (LDAP).",
+    "Pengembangan Aplikasi Penilaian Beban Kerja Dosen Dalam Melaksanakan Tridharma Perguruan Tinggi Berbasis Web di Politeknik Negeri Pontianak."
+  ],
+  "publications": [
+    "Fleksibilitas Sistem Informasi Dari Perspektif Pengguna dan Pengembang Sistem Informasi",
+    "Analisis Quality Of Service (QOS) Pada Jaringan Internet Di Politeknik Negeri Pontianak",
+    "Manajemen Hubungan Masyarakat Dalam Membangun Citra Sekolah"
+  ],
+  "contact": ["yasirarafat@polnep.ac.id"],
+  "photo": "yasirarafat.png"
+}

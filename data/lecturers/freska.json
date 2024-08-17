@@ -1,0 +1,30 @@
+{
+  "name": "Freska Rolansa, S.ST., M.Cs.",
+  "gender": "Laki-laki",
+  "university": "Politeknik Negeri Pontianak",
+  "studyProgram": "Teknik Informatika",
+  "position": "Lektor",
+  "education": "S2",
+  "employmentStatus": "Dosen Tetap",
+  "activityStatus": "Tugas Belajar",
+  "universityHistory": [
+    "Universitas Gadjah Mada (2014).",
+    "Universitas Tanjungpura (2008)."
+  ],
+  "academicDegree": [
+    "Master of Computer Science (2014).",
+    "Sarjana Teknik (2008)."
+  ],
+  "research": [
+    "Pengembangan Akademik Intelligent Dashboard di Program Studi Teknik Informatika.",
+    "Pengembangan Interaktif Dashboard Kemahasiswaan di Program Studi Teknik Informatika dengan Teknologi Big data.",
+    "SISTEM PENDUKUNG KEPUTUSAN PENERIMAAN BEASISWA BERBASIS FUZZY DI POLITEKNIK NEGERI PONTIANAK."
+  ],
+  "publications": [
+    "Aplikasi Biometrics Telapak Tangan Menggunakan Histrogram.",
+    "Sistem Simulasi Evakuasi Kebakaran Berbasis Multi Agen.",
+    "Aplikasi Penentuan Tingkat Kepuasan Mahasiswa Terhadap Layanan Pendidikan Berbasis Fuzzy."
+  ],
+  "contact": ["freskarolansa@polnep.ac.id"],
+  "photo": "freska.png"
+}

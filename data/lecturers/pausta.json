@@ -1,0 +1,30 @@
+{
+    "name": "Pausta Yugianus, S.Kom., M.T.",
+    "gender": "Laki-laki",
+    "university": "Politeknik Negeri Pontianak",
+    "studyProgram": "Teknik Informatika",
+    "position": "Lektor",
+    "education": "S2 Teknik Informatika",
+    "employmentStatus": "Dosen Tetap",
+    "activityStatus": "Aktif",
+    "universityHistory": [
+        "Universitas Brawijaya",
+        "Universitas Pendidikan Indonesia"
+    ],
+    "academicDegree": [
+        "Magister Teknik",
+        "Sarjana Komputer"
+    ],
+    "research": [
+        "Penelitian 1: Digitalisasi Arsip SK Pada Jurusan Teknik Elektro Politeknik Negeri Pontianak Berbasis Web.",
+        "Penelitian 2: Desain dan Implementasi Smart Energy Management Berbasis IoT Untuk Efisiensi Energi Listrik di Laboratorium Teknik Informatika POLNEP.",
+        "Penelitian 3: OPTIMALISASI INFRASTRUKTUR LOCAL AREA NETWORK (LAN) DALAM UPAYA MENDUKUNG PROSES PEMBELAJARAN BERBASIS E-LEARNING PADA JURUSAN TEKNIK ELEKTRO POLNEP."
+    ],
+    "publications": [
+         "Publikasi 1: Implementasi Algoritma Boyer-Moore Dalam Sistem Penelusuran Katalog Perpustakaan Sekolah.",
+        "Publikasi 2: Perancangan Aplikasi Sistem Basis Data Penelitian dan PPM (Balit) Pada Jurusan Teknik Elektro Politeknik Negeri Pontianak.",
+        "Publikasi 3: Analisis Quality Of Service (QOS) Pada Jaringan Internet Di Politeknik Negeri Pontianak."
+    ],
+    "contact": ["pausta@gmail.com"],
+    "photo": "pausta.jpg"
+}

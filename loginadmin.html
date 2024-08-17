@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Login</title>
+
+  <link rel="stylesheet" href="css/loginadmin.css">
+  <script src="js/user.js"></script>
+</head>
+
+<body>
+  <div class="container">
+    <div class="card-left">
+      <img src="images/polnep.png" alt="Politeknik Negeri Pontianak Logo" class="logo">
+    </div>
+    <div class="card-right">
+      <form id="loginForm">
+        <h2>Admin</h2>
+        <div class="form-group">
+          <label for="logNIP">NIP</label>
+          <input type="text" id="logNIP" required />
+          <label for="logPassword">Password</label>
+          <input type="password" id="logPassword" required />
+        </div>
+        <div class="form-btn">
+          <button type="submit"><a href="userlist.html">Masuk</a></button>
+        </div>
+        <div class="form-regis">
+          <p>Belum Punya Akun? <a href="regisadmin.html" class="link-primary">Registrasi</a></p>
+        </div>
+      </form>
+    </div>
+  </div>
+</body>
+
+</html>
+
+<script>
+  document.getElementById("loginForm").addEventListener("submit", function (e) {
+    e.preventDefault();
+    loginUser(); // Memanggil fungsi loginUser dari user.js saat form login disubmit
+  });
+</script>

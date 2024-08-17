@@ -1,0 +1,30 @@
+{
+    "name": "Tommi Suryanto, S.Kom., M.Kom.",
+    "gender": "Laki-laki",
+    "university": "Politeknik Negeri Pontianak",
+    "studyProgram": "Teknik Informatika",
+    "position": "Lektor",
+    "education": "S2 Teknik Informatika",
+    "employmentStatus": "Dosen Tetap",
+    "activityStatus": "Aktif",
+    "universityHistory": [
+        "STMIK Amikom",
+        "STMIK Amikom"
+    ],
+    "academicDegree": [
+        "Magister Teknik",
+        "Sarjana Komputer"
+    ],
+    "research": [
+        "Penelitian 1: Pengembangan Akademik Intelligent Dashboard di Program Studi Teknik Informatika.",
+        "Penelitian 2: Rancang Bangun Sistem Informasi Praktek Kerja Lapangan Berbasis Web pada Program Studi Teknik Informatika Jurusan Teknik Elektro Politeknik Negeri Pontianak.",
+        "Penelitian 3: Rancang Bangun Sistem Pengolahan Nilai Mata Kuliah pada Prodi Teknik Informatika Jurusan Teknik Elektro Politeknik Negeri Pontianak."
+    ],
+    "publications": [
+         "Publikasi 1: APLIKASI SISTEM INFORMASI MANAJEMEN PENANGGULANGAN PASCA BENCANA.",
+        "Publikasi 2: DESIGN DAN SIMULASI ARSITEKTUR SOFWARE-DEFINED NETWORK/OPENFLOW UNTUK JARINGAN APLIKASI MANAJEMEN PENANGGULANGAN PASCA BENCANA.",
+        "Publikasi 3: Pembuatan Sistem Informasi Pelayanan Pada Cafe Buana Kubu Raya."
+    ],
+    "contact": ["tommi@gmail.com"],
+    "photo": "tommi.png"
+}

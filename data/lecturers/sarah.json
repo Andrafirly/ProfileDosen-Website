@@ -1,0 +1,35 @@
+{
+    "name": "Ferry Faisal, S.ST., M.T.",
+    "gender": "Laki-laki",
+    "university": "Politeknik Negeri Pontianak",
+    "studyProgram": "Teknik Informatika",
+    "position": "Lektor",
+    "education": "S2 Teknik Informatika",
+    "employmentStatus": "Dosen Tetap",
+    "activityStatus": "Aktif",
+    "universityHistory": [
+        "Politeknik Negeri Pontianak",
+        "Universitas Negeri Pontianak",
+        "Politeknik Negeri Pontianak",
+        "Universitas Negeri Pontianak",
+        "Politeknik Negeri Pontianak"
+    ],
+    "academicDegree": [
+        "Magister Teknik",
+        "Sarjana Teknik",
+        "Sarjana Sains Terapan",
+        "Sarjana Sains Terapan"
+    ],
+    "research": [
+        "Penelitian 1: Kecerdasan Buatan dan Pembelajaran Mesin.",
+        "Penelitian 2: Aplikasi Teknologi Informasi di Bidang Pendidikan.",
+        "Penelitian 3: Analisis Data Besar untuk Keputusan Strategis."
+    ],
+    "publications": [
+         "Publikasi 1: Kecerdasan Buatan dan Pembelajaran Mesin.",
+        "Publikasi 2: Aplikasi Teknologi Informasi di Bidang Pendidikan.",
+        "Publikasi 3: Analisis Data Besar untuk Keputusan Strategis."
+    ],
+    "contact": ["ferryfaisal@gmail.com"],
+    "photo": "ferryfaisal.png"
+}

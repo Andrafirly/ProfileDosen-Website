@@ -1,0 +1,29 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f9f9f9;
+}
+
+h2 {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+#userTable {
+    width: 80%;
+    margin: 40px auto;
+    border-collapse: collapse;
+}
+
+#userTable th, #userTable td {
+    border: 1px solid #ddd;
+    padding: 10px;
+    text-align: left;
+}
+
+#userTable th {
+    background-color: #f0f0f0;
+}
+
+#userTable tr:nth-child(even) {
+    background-color: #f2f2f2;
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Lindung Siswanto, S.Kom., M.Eng.",
+  "gender": "Laki-laki",
+  "university": "Politeknik Negeri Pontianak",
+  "studyProgram": "Teknologi Informasi (Kampus Kab. Sukamara)",
+  "position": "Lektor",
+  "education": "S2 Teknik Informatika",
+  "employmentStatus": "Dosen Tetap",
+  "activityStatus": "Aktif",
+  "universityHistory": ["Universitas Gadjah Mada (2012)."],
+  "academicDegree": ["Tidak ditemukan"],
+  "research": [
+    "MEMBANGUN SISTEM INFORMASI PENJAMINAN MUTU INTERNAL TERINTEGRASI SIMAMI DAN SISTER POLITEKNIK NEGERI PONTIANAK.",
+    "Rancang Bangun Sistem Informasi Praktek Kerja Lapangan Berbasis Web pada Program Studi Teknik Informatika Jurusan Teknik Elektro Politeknik Negeri Pontianak.",
+    "Web-Based Presence Application Development at Pontianak State Polytechnic."
+  ],
+  "publications": [
+    "Web-Based Presence Application Development at Pontianak State Polytechnic.",
+    "Sistem Informasi Manajemen Komando Tanggap Darurat Bencana Letusan Gunung Merapi.",
+    "Rancang Bangun Sistem Informasi Tugas Akhir Berbasis Web pada Jurusan Teknik Elektro Politeknik Negeri Pontianak."
+  ],
+  "contact": ["lindungsiswanto@polnep.ac.id"],
+  "photo": "lindung.png"
+}

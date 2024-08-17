@@ -1,0 +1,24 @@
+{
+  "name": "Ferry Faisal, S.ST., M.T.",
+  "gender": "Laki-laki",
+  "university": "Politeknik Negeri Pontianak",
+  "studyProgram": "Teknik Informatika",
+  "position": "Lektor",
+  "education": "S2 Teknik Informatika",
+  "employmentStatus": "Dosen Tetap",
+  "activityStatus": "Aktif",
+  "universityHistory": ["Politeknik Negeri Pontianak"],
+  "academicDegree": ["Magister Teknik"],
+  "research": [
+    "Digitalisasi Arsip SK Pada Jurusan Teknik Elektro Politeknik Negeri Pontianak Berbasis Web.",
+    "Pengembangan Aplikasi Penilaian Prestasi Kerja PNS Berbasis Web di Lingkungan Polnep.",
+    "Pengembangan aplikasi penilaian Prestasi kerja Pegawai Negeri Sipil berbasi web di lingkungan Politeknik Negeri Pontianak."
+  ],
+  "publications": [
+    "Perancangan Aplikasi Mobile Sebagai Media Edukasi.",
+    "Pemanfaatan Taman Sabang Merah Bagi Karang Taruna Kelurahan Bunut Dalam.",
+    "Rancang Bangun Jaringan Internet dan Intranet."
+  ],
+  "contact": ["ferryfaisal@gmail.com"],
+  "photo": "ferryfaisal.png"
+}

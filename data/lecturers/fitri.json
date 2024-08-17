@@ -1,0 +1,23 @@
+{
+  "name": "Fitri Wibowo, S.ST., M.T.",
+  "gender": "Laki-laki",
+  "university": "Politeknik Negeri Pontianak",
+  "studyProgram": "Teknologi Informasi (Kampus Kab. Sukamara)",
+  "position": "Lektor",
+  "education": "S2",
+  "employmentStatus": "Dosen Tetap",
+  "activityStatus": "Aktif",
+  "universityHistory": ["Tidak Ditemukan"],
+  "academicDegree": ["Tidak Ditemukan"],
+  "research": [
+    "Desain dan Implementasi Smart Energy Management Berbasis IoT Untuk Efisiensi Energi Listrik di Laboratorium Teknik Informatika POLNEP.",
+    "Pengembangan Web Service SIMP3M UPPM POLNEP dan Integrasinya dengan SISTER",
+    "Pengembangan aplikasi penilaian Prestasi kerja Pegawai Negeri Sipil berbasi web di lingkungan Politeknik Negeri Pontianak."
+  ],
+  "publications": [
+    "Perancangan Aplikasi Mobile.",
+    "Desain dan Implementasi Smart Laboratory Berbasis IOT Menggunakan ESP32 dan Thingsboard untuk Meningkatkan Keamanan dan Keselamatan di Laboratorium Teknik Informatika POLNEP."
+  ],
+  "contact": ["fitriwibowo@gmail.com"],
+  "photo": "fitri.png"
+}

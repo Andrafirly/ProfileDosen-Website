@@ -1,0 +1,30 @@
+{
+  "name": "Muhammad Hasbi, M.T.",
+  "gender": "Laki-laki",
+  "university": "Politeknik Negeri Pontianak",
+  "studyProgram": "Teknik Informatika",
+  "position": "Lektor",
+  "education": "S2 Teknik Informatika",
+  "employmentStatus": "Dosen Tetap",
+  "activityStatus": "Aktif",
+  "universityHistory": [
+    "Universitas Gadjah Mada (2005).",
+    "Universitas Tanjungpura (2001)."
+  ],
+  "academicDegree": [
+    "Master of Computer Science (2005).",
+    "Sarjana Teknik (2001)."
+  ],
+  "research": [
+    "MEMBANGUN APLIKASI AGENDA KEGIATAN PIMPINAN DAN MANAJEMEN POLITEKNIK NEGERI PONTIANAK BERBASIS WEB.",
+    "Membangun Aplikasi Laporan Quality Assurance Mengenai Tingkat Kepuasan Mahasiswa Jurusan Teknik Elektro Politeknik Negeri Pontianak.",
+    "Perancangan Basis Data Terpadu Untuk Program Studi Teknik Informatika Jurusan Teknik Elektro Politeknik Negeri Pontianak."
+  ],
+  "publications": [
+    "Audit Sistem Informasi Kepegawaian pada Kementerian Kebudayaan dan Pariwisata.",
+    "Optimum orientation and tilt angle for estimating performance of photovoltaic modules in western region of Saudi Arabia.",
+    "Membangun Aplikasi Laporan Quality Assurance Mengenai Tingkat Kepuasan Mahasiswa Jurusan Teknik Elektro Politeknik Negeri Pontianak."
+  ],
+  "contact": ["muhammadhasbi@polnep.ac.id"],
+  "photo": "hasbi.jpg"
+}

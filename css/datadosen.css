@@ -1,0 +1,248 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0px;
+  padding: 0px;
+  background-color: #ddedff;
+}
+
+::-webkit-scrollbar {
+  display: none;
+}
+
+
+/* Header */
+.header {
+  display: flex;
+  flex-direction: row;
+  background-color: #007bff;
+  margin-top: 20px;
+  margin-left: 20px;
+  margin-right: 20px;
+  padding: 5px;
+  padding-left: 1.5rem;
+  padding-right: 1.5rem;
+  padding-bottom: 5px;
+  padding-top: 5px;
+  border-radius: 50px;
+}
+
+.logo {
+  font-size: 30px;
+  font-weight: bold;
+  transition: 0.3s ease;
+}
+
+.logo:hover {
+  color: #ffc107;
+  text-shadow: 0 0 25px white, 0 0 25px white;
+  transform: scale(1.1);
+}
+h1 span {
+  color: #ffc107;
+}
+
+.header ul {
+  position: relative;
+  left: 37rem;
+  top: 1.5px;
+  display: flex;
+  flex-direction: row;
+  list-style: none;
+  transition: background 2.5s;
+}
+
+li {
+  text-decoration: none;
+  padding: 10px;
+}
+
+.nav-menu a {
+  font-weight: bolder;
+  color: #ffc107;
+  border-bottom: 3px solid transparent;
+  transition: 0.3s ease;
+  text-decoration: none;
+}
+
+.nav-menu a:hover,
+.nav-menu a.active {
+  color: white;
+}
+
+.search {
+  position: relative;
+  top: 15px;
+  left: 39rem;
+  display: flex;
+  align-items: center;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-right: 10px;
+  border-radius: 28px;
+  background-color: #ffc107;
+  transition: background 0.25s;
+}
+
+.search:focus-within {
+  background: #ddedff;
+}
+
+.material-symbols-outlined {
+  margin-left: 10px;
+  color: gray;
+}
+.search-input {
+  font-family: "Lexend", sans-serif;
+  margin-left: 10px;
+  outline: none;
+  background: transparent;
+  border: none;
+}
+
+.search-input::placeholder {
+  font-size: 15px;
+}
+
+input {
+  border: 0;
+  background: transparent;
+  border: 0;
+  outline: 0;
+}
+
+button {
+  background: transparent;
+  border: 0;
+  outline: 0;
+}
+
+button .fa-solid {
+  font-size: 22px;
+  cursor: pointer;
+}
+/* Style the list */
+ul.breadcrumb {
+  padding:29px;
+  margin-bottom: -50px;
+  list-style: none;
+
+}
+
+/* Display list items side by side */
+ul.breadcrumb li {
+  display: inline;
+  font-size: 18px;
+
+}
+
+/* Add a slash symbol (/) before/behind each list item */
+ul.breadcrumb li+li:before {
+  padding: 8px;
+  color: black;
+  content: ">\00a0";
+
+}
+
+/* Add a color to all links inside the list */
+ul.breadcrumb li a {
+  color: black;
+  text-decoration: none;
+
+}
+
+/* Add a color on mouse-over */
+ul.breadcrumb li a:hover {
+  color: black;
+  text-decoration: underline;
+}
+.breadcrumb-dosen {
+  font-weight: 900;
+  margin-left: -10px;
+
+
+}
+.biodata {
+    display: flex;
+    align-items: center;
+}
+
+.photo {
+    width: 150px;
+    height: 160px;
+    background-color: #e0e0e0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-right: 20px;
+    overflow: hidden;
+}
+
+.photo img {
+    width: 100%;
+    height: auto;
+}
+
+.section {
+    padding: 30px;
+    border-bottom: 1px solid #FFFBFB;
+      font-weight: 600;
+  font-size: 1.125rem;
+}
+
+.section h2 {
+    background-color: #007bff;
+    color: #ffffff;
+    padding: 10px;
+    border-radius: 20px;
+    margin-bottom: 10px;
+    text-align: left;
+}
+
+.section .content {
+    background-color: white;
+    border-radius: 20px;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    padding: 20px;
+    min-height: 100px;
+}
+
+#lecturer-research {
+  display: flex;
+  flex-direction: column;
+}
+.content-biodata {
+
+      background-color: white;
+    border-radius: 20px;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+        padding: 20px;
+    min-height: 100px;
+        font-weight: 600;
+  font-size: 1.125rem;
+}
+.content-biodata h3 {
+  margin: 0px;
+  font-size: 26px;
+}
+.content-biodata p{
+  font-weight: 500;
+  font-size: 17px;
+}
+.info-1 {
+  font-weight: 600;
+  font-size: 1.125rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    margin-right: 50px;
+    padding: 1rem;
+}
+
+.info-2 {
+    font-weight: 600;
+  font-size: 1.125rem;
+}
+
+.info p {
+    margin: 10px 0;
+}

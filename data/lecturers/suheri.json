@@ -1,0 +1,30 @@
+{
+    "name": "Suheri, S.T., M.Cs.",
+    "gender": "Laki-laki",
+    "university": "Politeknik Negeri Pontianak",
+    "studyProgram": "Teknik Informatika",
+    "position": "Lektor",
+    "education": "S2 Teknik Informatika",
+    "employmentStatus": "Dosen Tetap",
+    "activityStatus": "Aktif",
+    "universityHistory": [
+        "Universitas Gadjah Mada (2017).",
+        "Universitas Ahmad Dahlan (2007)."
+    ],
+    "academicDegree": [
+        "Master of Computer Science (2017).",
+        "Sarjana Teknik (2007)."
+    ],
+    "research": [
+        "Penelitian 1: Desain dan Implementasi Smart Energy Management Berbasis IoT Untuk Efisiensi Energi Listrik di Laboratorium Teknik Informatika POLNEP.",
+        "Penelitian 2: Desain dan Implementasi Smart Laboratory Berbasis IoT Menggunakan ESP32 dan Thingsboard untuk Meningkatkan Keamanan dan Keselamatan di Laboratorium Teknik Informatika POLNEP.",
+        "Penelitian 3: Pengembangan Akademik Intelligent Dashboard di Program Studi Teknik Informatika."
+    ],
+    "publications": [
+         "Publikasi 1: Aplikasi Penentuan Tingkat Kepuasan Mahasiswa Terhadap Layanan Pendidikan di Program Studi Teknik Informatika di Politeknik Negeri Pontianak Berbasis Fuzzy.",
+        "Publikasi 2: Identifikasi dan Penghitungan Koloni Bakteri menggunakan Ektraksi Fitur.",
+        "Publikasi 3: Desain dan Implementasi Smart Laboratory Berbasis IOT Menggunakan ESP32 dan Thingsboard untuk Meningkatkan Keamanan dan Keselamatan di Laboratorium Teknik Informatika POLNEP."
+    ],
+    "contact": ["suheri@gmail.com"],
+    "photo": "suheri.png"
+}

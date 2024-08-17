@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="id">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pusat Dosen Teknik Informatika</title>
+    <link rel="stylesheet" href="css/datadosen.css">
+    <link rel="stylesheet"
+        href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@24,400,0,0">
+    <script src="https://kit.fontawesome.com/bace08ed28.js" crossorigin="anonymous"></script>
+    <script src="js/dynamicLoad.js"></script>
+    <script src="js/profiles.js"></script>
+    <script></script>
+</head>
+
+<body>
+    <!-- Header Start -->
+    <header class="header">
+        <h1 class="logo">Teknik <span>Informatika</span></h1>
+        <ul class="nav-menu">
+            <li><a href="index.html">HOME</a></li>
+            <li><a href="about.html">ABOUT</a></li>
+            <li><a href="contact.html">CONTACT</a></li>
+        </ul>
+        <form>
+            <div class="search">
+                <span class="material-symbols-outlined">Search</span>
+                <input class="search-input" type="search" id="input-box" placeholder="Search anything"
+                    autocomplete="off">
+                <button type="submit"><i class="fa-solid fa-arrow-right"></i></button>
+
+            </div>
+        </form>
+    </header>
+    <!-- Header End -->
+    <ul class="breadcrumb">
+        <li><a href="index.html">Home</a></li>
+        <li class="breadcrumb-dosen"><a href="#">Dosen</a></li>
+    </ul>
+    <div class="section" id="lecturers-section">
+        <h2>Biodata Dosen</h2>
+        <div class="content biodata">
+            <div class="photo">
+                <img id="lecturer-photo" alt="photo">
+            </div>
+            <div class="info-1" id="info-1">
+                <p><strong>Nama:</strong> <span id="lecturer-name"></span></p>
+                <br>
+                <p><strong>Jenis Kelamin:</strong> <span id="lecturer-gender"></span></p>
+                <br>
+                <p><strong>Perguruan Tinggi:</strong> <span id="lecturer-university"></span></p>
+                <br>
+                <p><strong>Program Studi:</strong> <span id="lecturer-study-program"></span></p>
+            </div>
+            <div class="info-2">
+                <p><strong>Jabatan Fungsional:</strong> <span id="lecturer-position"></span></p>
+                <br>
+                <p><strong>Pendidikan Terakhir:</strong> <span id="lecturer-education"></span></p>
+                <br>
+                <p><strong>Status Ikatan Kerja:</strong> <span id="lecturer-employment-status"></span></p>
+                <br>
+                <p><strong>Status Aktivitas:</strong> <span id="lecturer-activity-status"></span></p>
+            </div>
+        </div>
+    </div>
+
+    <div class="section">
+        <h2>Riwayat Pendidikan</h2>
+        <div class="content-biodata">
+            <h3>Perguruan Tinggi :</h3>
+            <p id="lecturer-university-history"></p>
+            <br>
+            <h3>Gelar Akademik :</h3>
+            <p id="lecturer-academic-degree"></p>
+        </div>
+    </div>
+    <div class="section">
+        <h2>Penelitian</h2>
+        <div class="content" id="lecturer-research">
+        </div>
+    </div>
+    <div class="section">
+        <h2>Publikasi</h2>
+        <div class="content" id="lecturer-publications"></div>
+    </div>
+        <div class="section">
+            <h2>Kontak Dosen</h2>
+            <div class="content" id="lecturer-contact"></div>
+        </div>
+    </div>
+    </div>
+
+</body>
+
+</html>

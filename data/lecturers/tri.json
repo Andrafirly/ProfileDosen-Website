@@ -1,0 +1,29 @@
+{
+  "name": "Tri Bowo Atmojo, S.ST., M.Cs.",
+  "gender": "Laki-laki",
+  "university": "Politeknik Negeri Pontianak",
+  "studyProgram": "Teknik Informatika",
+  "position": "Asisten Ahli",
+  "education": "S2 Teknik Informatika",
+  "employmentStatus": "Dosen Tetap",
+  "activityStatus": "Aktif",
+  "universityHistory": [
+    "Master of Computer Science (2016).",
+    "Sarjana Teknik (2009)."
+  ],
+  "academicDegree": [
+    "Master of Computer Science (2016).",
+    "Sarjana Teknik (2009)."
+  ],
+  "research": [
+    "Rancang Bangun Sistem Informasi Praktek Kerja Lapangan Berbasis Web pada Program Studi Teknik Informatika Jurusan Teknik Elektro Politeknik Negeri Pontianak.",
+    "OPTIMALISASI INFRASTRUKTUR LOCAL AREA NETWORK (LAN) DALAM UPAYA MENDUKUNG PROSES PEMBELAJARAN BERBASIS E-LEARNING PADA JURUSAN TEKNIK ELEKTRO POLNEP.",
+    "Sistem Informasi Inventaris untuk Peminjaman dan Pengembalian Alat di Laboratorium Teknik Informatika POLNEP Berbasis Web"
+  ],
+  "publications": [
+    "Rancang Bangun Aplikasi Helpdesk Pada Divisi Teknologi Informasi Berbasis Web (Studi Kasus PT Bank Pembangunan Daerah Kalimantan Barat).",
+    "Rancang Bangun Sistem Informasi Praktek Kerja Lapangan Berbasis Web pada Program Studi Teknik Informatika Jurusan Teknik Elektro Politeknik Negeri Pontianak."
+  ],
+  "contact": ["tribowoatmojo@polnep.ac.id"],
+  "photo": "tribowoatmojo.png"
+}

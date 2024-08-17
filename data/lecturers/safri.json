@@ -1,0 +1,30 @@
+{
+    "name": "Safri Adam, S.Kom., M.Kom..",
+    "gender": "Laki-laki",
+    "university": "Politeknik Negeri Pontianak",
+    "studyProgram": "Teknik Informatika",
+    "position": "Asisten Ahli",
+    "education": "S2 Teknik Informatika",
+    "employmentStatus": "Dosen Tetap",
+    "activityStatus": "Aktif",
+    "universityHistory": [
+        "Institut Teknologi Sepuluh Nopember",
+        "Universitas Ahmad Dahlan"
+    ],
+    "academicDegree": [
+        "Magister Komputer",
+        "Sarjana Komputer"
+    ],
+    "research": [
+        "Penelitian 1: MEMBANGUN APLIKASI AGENDA KEGIATAN PIMPINAN DAN MANAJEMEN POLITEKNIK NEGERI PONTIANAK BERBASIS WEB.",
+        "Penelitian 2: MEMBANGUN APLIKASI AGENDA KEGIATAN PIMPINAN DAN MANAJEMEN POLITEKNIK NEGERI PONTIANAK BERBASIS WEB.",
+        "Penelitian 3: RANCANG BANGUN SISTEM INFORMASI PENGUKURAN INDIKATOR UTAMA KEGIATAN PERGURUAN TINGGI POLITEKNIK NEGERI PONTIANAK."
+    ],
+    "publications": [
+         "Publikasi 1: Assessment of Debonding Failures in the Sandwich Plate of Stern Ramp Door of Ferry Ro-Ro using k-Nearest Neighbor Algorithm.",
+        "Publikasi  2: Perancangan Aplikasi Mobile.",
+        "Publikasi  3: Implementasi Pencatatan Keuangan Pada Kelompok Petani Sayur Kauman."
+    ],
+    "contact": ["safri@gmail.com"],
+    "photo": "adam.png"
+}

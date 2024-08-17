@@ -1,0 +1,26 @@
+{
+  "name": "Suharsono, S.Kom., M.Kom.",
+  "gender": "Laki-laki",
+  "university": "Politeknik Negeri Pontianak",
+  "studyProgram": "Teknik Informatika",
+  "position": "Asisten Ahli",
+  "education": "S2 Teknik Informatika",
+  "employmentStatus": "Dosen Tetap",
+  "activityStatus": "Aktif",
+  "universityHistory": [
+    "Universitas Sumatera Utara(2014).",
+    "Universitas Sumatera Utara (2010)."
+  ],
+  "academicDegree": ["Magister Komputer (2014).", "Sarjana Komputer (2010)."],
+  "research": [
+    "RANCANG BANGUN SMART LABORATORY BERBASIS IOT PADA LABORATORIUM PRODI TEKNOLOGI INFORMASI PSDKU POLNEP DI KAB. SUKAMARA.",
+    "Sistem Pengambilan Keputusan Topik Tugas Akhir Mahasiswa Menggunakan Metode Neural Network."
+  ],
+  "publications": [
+    "A Neural Network Recommendation Model for Final Project Topic Selection.",
+    "Sistem Pendukung Keputusan Untuk Menentukan Pemilihan Jurusan Menggunakan Metode MOORA.",
+    "Visualisasi Data Dari Data Ketidakhadiran Mahasiswa Menggunakan Pemrograman Python."
+  ],
+  "contact": "suharsono@polnep.ac.id",
+  "photo": "suharsono.png"
+}

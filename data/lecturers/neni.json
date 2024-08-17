@@ -1,0 +1,30 @@
+{
+    "name": "Neni Firdyanti, S.T., M.T.",
+    "gender": "Perempuan",
+    "university": "Politeknik Negeri Pontianak",
+    "studyProgram": "Teknik Informatika",
+    "position": "Lektor",
+    "education": "S2 Teknik Informatika",
+    "employmentStatus": "Dosen Tetap",
+    "activityStatus": "Aktif",
+    "universityHistory": [
+        "Universitas Gadjah Mada (2004).",
+        "Universitas Tanjungpura (2001)."
+    ],
+    "academicDegree": [
+        "Magister Teknik  (2004).",
+        "Sarjana Teknik (2001)."
+    ],
+    "research": [
+        "Penelitian 1: MEMBANGUN APLIKASI AGENDA KEGIATAN PIMPINAN DAN MANAJEMEN POLITEKNIK NEGERI PONTIANAK BERBASIS WEB.",
+        "Penelitian 2: MEMBANGUN APLIKASI AGENDA KEGIATAN PIMPINAN DAN MANAJEMEN POLITEKNIK NEGERI PONTIANAK BERBASIS WEB.",
+        "Penelitian 3: Membangun Aplikasi Laporan Quality Assurance Mengenai Tingkat Kepuasan Mahasiswa Jurusan Teknik Elektro Politeknik Negeri Pontianak."
+    ],
+    "publications": [
+         "Penelitian 1: ANALISIS UNJUK KERJA DAN DESAIN JARINGAN KOMPUTER MENGGUNAKAN METODE TOP-DOWN NETWORK DESAIN PADA JURUSAN TEKNIK ELEKTRO POLITEKNIK NEGERI PONTIANAK.",
+        "Penelitian 2: Membangun Aplikasi Laporan Quality AssuranceMengenai Tingkat Kepuasan Mahasiswa Jurusan Teknik Elektro Politeknik Negeri Pontianak.",
+        "Penelitian 3: Penerapan Teknologi Augmented Reality Pada Pembelajaran Sistem Saraf Bagian Otak."
+    ],
+    "contact": ["neni@gmail.com"],
+    "photo": "neni.png"
+}
